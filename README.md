@@ -49,7 +49,6 @@
 ## 👨‍💻 Developer Info
 
 - **Developer**: AP
-- **Email**: [ap0803apap@gmail.com](mailto:ap0803apap@gmail.com)
 - **GitHub**: [@ap0803apap-sketch](https://github.com/ap0803apap-sketch/)
 
 ## 📄 License
