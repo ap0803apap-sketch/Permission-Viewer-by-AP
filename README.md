@@ -22,7 +22,7 @@
 
 | Home Screen | App Details | Settings |
 | :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400?text=Home+Screen) | ![Details](https://via.placeholder.com/200x400?text=App+Details) | ![Settings](https://via.placeholder.com/200x400?text=Settings) |
+|<img width="720" height="1080" alt="01" src="https://github.com/user-attachments/assets/09c40f7c-cf1b-4524-b2e7-be61a41c2eef" /> |<img width="720" height="1600" alt="02" src="https://github.com/user-attachments/assets/c111723c-074b-43bb-95a4-038302075cea" /> |<img width="720" height="1080" alt="03" src="https://github.com/user-attachments/assets/788c4717-c4b5-4c3c-91c7-31e076feaf1b" /> |
 
 *(Note: Replace placeholders with actual screenshots from your app)*
 
