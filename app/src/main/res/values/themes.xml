@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base Light Theme -->
+    <style name="Base.Theme.PermissionViewerByAP" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Light Mode Colors -->
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorSurfaceVariant">#F0F0F0</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+
+
+        <!-- Text Colors -->
+        <item name="colorOnBackground">#000000</item>
+        <item name="colorOnSurface">#000000</item>
+
+        <!-- Accent Colors -->
+        <item name="colorPrimary">#1E88E5</item>         <!-- Blue -->
+        <item name="colorPrimaryContainer">#BBDEFB</item>
+        <item name="colorSecondary">#26C6DA</item>       <!-- Cyan -->
+        <item name="colorSecondaryContainer">#E0F7FA</item>
+    </style>
+
+    <style name="Theme.PermissionViewerByAP" parent="Base.Theme.PermissionViewerByAP" />
+
+    <!-- AMOLED style dummy for light mode -->
+    <style name="ThemeOverlay.PermissionViewerByAP.Amoled" parent="" />
+</resources>

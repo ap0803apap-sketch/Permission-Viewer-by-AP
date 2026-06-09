@@ -1,0 +1,9 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purpleButton">#f196d9</color> lighter purple -->
+    <color name="amoled_black">#000000</color>
+
+    <color name="onPurpleButton">#000000</color>
+    <color name="colorBackground">#000000</color> <!-- AMOLED black -->
+</resources>

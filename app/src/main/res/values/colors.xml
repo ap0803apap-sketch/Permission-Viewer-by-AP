@@ -1,0 +1,9 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purpleButton">#f15e88</color>
+    <color name="amoled_black">#000000</color>
+
+    <color name="onPurpleButton">#FFFFFF</color>
+    <color name="colorBackground">#FFFFFF</color>
+</resources>
